@@ -1,0 +1,101 @@
+.headImage{
+  margin-top: 100px;
+  width: 1600px;
+  height: 150px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: #e3e3e3;
+}
+.logo{
+
+  float: left;
+  width: 150px;
+  height: 150px;
+
+}
+.navi{
+  margin-left: 800px;
+  margin-top: 40px;
+}
+.navi a{
+
+  color: gray;
+  display: inline;
+  text-decoration: none;
+  font-size: 200%;
+  font-style: italic;
+  margin-left: 20px;
+  margin-top: 40px;
+}
+a:hover{
+  font-size: 300%;
+}
+.main{
+  margin-top: 30px;
+}
+img{
+  width: 300px;
+  height: 280px;
+}
+p{
+  color: gray;
+}
+.info{
+  margin-top: 40px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: gray;
+  height: 300px;
+}
+.process{
+  background-color: #e3e3e3;
+  height: 750px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 30px;
+}
+.process img{
+  width: 600px;
+  height: 400px;
+}
+.sell{
+  height: 750px;
+}
+.sellimg {
+  width: 400px;
+}
+.main3{
+  margin-top: 40px;
+}
+.eco{
+  margin-top: 50px;
+  width: 500px;
+  height: 450px;
+}
+.scape{
+  margin-top: 10px;
+}
+.info{
+  height: 250px;
+  background-color: gray;
+}
+.info ul li{
+  display: inline;
+  color: white
+}
+.info a:hover{
+  font-size: 100%;
+}
+.info a{
+  color: white;
+  text-decoration: none;
+}
+.info h1{
+  color: white;
+}
+.info h2{
+  color: white;
+}
+.info h3{
+  color: white;
+}

@@ -1,0 +1,45 @@
+.header img{
+  width:2000px;
+  height:150px;
+  float: left;
+}
+.logo img{
+  width:150px;
+  height:150px;
+  float: left;
+}
+table{
+  margin-top:290px;
+}
+
+.logo div{
+  display: inline;
+  margin-left: 30px;
+
+}
+a{
+  font-size:150%;
+  color: white;
+  padding-left: 20px;
+  font-style: italic;
+  text-decoration: none;
+  text-shadow: 15px 10px 20px;
+}
+a:hover{
+  text-decoration: underline;
+
+}
+td div{
+  width: 330px;
+  height: 400px;
+}
+td div img{
+  width: 300px;
+  height: 250px;
+}
+
+td div h2{
+   color:white;
+   font-size:100%;
+   text-align: left;
+}
